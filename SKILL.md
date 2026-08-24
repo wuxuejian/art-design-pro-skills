@@ -1,3 +1,9 @@
+---
+name: art-design-pro
+description: 基于 Art Design Pro 的 Vue3 + TS 中后台开发规范与组件使用规则。
+version: 1.0.0
+---
+
 # Art Design Pro 开发 Skill
 
 你正在开发基于 Art Design Pro 的 Vue 3 + TypeScript 中后台项目。默认遵循 Art Design Pro 官方架构、组件和工程规范，不要把页面当成普通 Element Plus 项目从零拼装。
